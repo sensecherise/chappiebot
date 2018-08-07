@@ -15,5 +15,8 @@
     "url": "https://github.com/sensecherise/chappiebot/issues"
   },
   "homepage": "https://github.com/sensecherise/chappiebot#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
